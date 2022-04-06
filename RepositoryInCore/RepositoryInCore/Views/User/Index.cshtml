@@ -1,0 +1,39 @@
+﻿@model RepositoryInCore.ViewModal.UserViewModal
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div>
+    <h4>
+        UserViewModal
+    </h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(Model => Model.FirstName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(Model => Model.FirstName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(Model => Model.LName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(Model => Model.LName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(Model => Model.FullName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(Model => Model.FullName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(Model => Model.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(Model => Model.Email)
+        </dd>
+    </dl>
+
+</div>
