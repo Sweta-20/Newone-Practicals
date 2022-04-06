@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XlzbQ7VEUd12PL9HBXSS4/9MFpFvFOw9e56Z8wETiv1YInR9zSA2o42Wnf3Z6A92URPRsHWEzaOsvehiTVcR4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sweta\\source\\repos\\Demo\\BAL\\BAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sweta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sweta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\sweta\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

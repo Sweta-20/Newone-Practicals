@@ -1,0 +1,12 @@
+C:\Users\sweta\source\repos\Demo\BAL\bin\Debug\net5.0\BAL.deps.json
+C:\Users\sweta\source\repos\Demo\BAL\bin\Debug\net5.0\BAL.dll
+C:\Users\sweta\source\repos\Demo\BAL\bin\Debug\net5.0\ref\BAL.dll
+C:\Users\sweta\source\repos\Demo\BAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.csproj.AssemblyReference.cache
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.AssemblyInfoInputs.cache
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.AssemblyInfo.cs
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.dll
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\ref\BAL.dll
+C:\Users\sweta\source\repos\Demo\BAL\obj\Debug\net5.0\BAL.pdb

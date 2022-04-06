@@ -1,0 +1,7 @@
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.AssemblyInfo.cs
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sweta\source\repos\Demo\Demo\obj\Debug\net5.0\Demo.MvcApplicationPartsAssemblyInfo.cache

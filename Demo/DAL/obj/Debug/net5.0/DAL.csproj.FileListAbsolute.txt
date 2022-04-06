@@ -1,0 +1,15 @@
+C:\Users\sweta\source\repos\Demo\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\sweta\source\repos\Demo\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\sweta\source\repos\Demo\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\sweta\source\repos\Demo\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\sweta\source\repos\Demo\DAL\bin\Debug\net5.0\BAL.dll
+C:\Users\sweta\source\repos\Demo\DAL\bin\Debug\net5.0\BAL.pdb
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\sweta\source\repos\Demo\DAL\obj\Debug\net5.0\DAL.pdb
